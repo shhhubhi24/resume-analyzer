@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Data Analyst",
+    "description": "Analyze data using Python, SQL, and Excel. Build dashboards with Power BI."
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "description": "Develop ML models using Python, TensorFlow, and scikit-learn."
+  },
+  {
+    "title": "Backend Developer",
+    "description": "Develop REST APIs using Flask or Node.js. Work with databases like PostgreSQL and MongoDB."
+  }
+]
